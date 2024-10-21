@@ -1,0 +1,83 @@
+Zadanie 1
+
+Algorytm genetyczny dla wartości:
+
+population_size = 10
+chromosome_length = 5  
+generations = 10
+mutation_prob = 0.01
+
+Output:
+Generation 1: Best = 11111, f(x) = 961
+Generation 2: Best = 11111, f(x) = 961
+Generation 3: Best = 11101, f(x) = 841
+Generation 4: Best = 11101, f(x) = 841
+Generation 5: Best = 11101, f(x) = 841
+Generation 6: Best = 11111, f(x) = 961
+Generation 7: Best = 11101, f(x) = 841
+Generation 8: Best = 11110, f(x) = 900
+Generation 9: Best = 11110, f(x) = 900
+Generation 10: Best = 11111, f(x) = 961
+Best solution: x = 31, f(x) = 961
+________________________________________
+population_size = 100
+chromosome_length = 5  
+generations = 10
+mutation_prob = 0.01
+
+Output:
+Generation 1: Best = 11111, f(x) = 961
+Generation 2: Best = 11111, f(x) = 961
+Generation 3: Best = 11111, f(x) = 961
+Generation 4: Best = 11111, f(x) = 961
+Generation 5: Best = 11111, f(x) = 961
+Generation 6: Best = 11111, f(x) = 961
+Generation 7: Best = 11111, f(x) = 961
+Generation 8: Best = 11111, f(x) = 961
+Generation 9: Best = 11111, f(x) = 961
+Generation 10: Best = 11111, f(x) = 961
+Best solution: x = 31, f(x) = 961
+_________________________________________
+population_size = 100
+chromosome_length = 5
+generations = 10
+mutation_prob = 1
+
+Output:
+Generation 1: Best = 11000, f(x) = 576
+Generation 2: Best = 11100, f(x) = 784
+Generation 3: Best = 11111, f(x) = 961
+Generation 4: Best = 11110, f(x) = 900
+Generation 5: Best = 11111, f(x) = 961
+Generation 6: Best = 11111, f(x) = 961
+Generation 7: Best = 11101, f(x) = 841
+Generation 8: Best = 11011, f(x) = 729
+Generation 9: Best = 11111, f(x) = 961
+Generation 10: Best = 11110, f(x) = 900
+Best solution: x = 30, f(x) = 900
+
+Zmiana mutation_prob daje śladowe wyniki podczas zwiększania obniża x oraz f(x)
+
+__________________________________________
+
+population_size = 100050
+chromosome_length = 5
+generations = 10
+mutation_prob = 0.01
+
+Output:
+Generation 1: Best = 11111, f(x) = 961
+Generation 2: Best = 11111, f(x) = 961
+Generation 3: Best = 11111, f(x) = 961
+Generation 4: Best = 11111, f(x) = 961
+Generation 5: Best = 11111, f(x) = 961
+Generation 6: Best = 11111, f(x) = 961
+Generation 7: Best = 11111, f(x) = 961
+Generation 8: Best = 11111, f(x) = 961
+Generation 9: Best = 11111, f(x) = 961
+Generation 10: Best = 11111, f(x) = 961
+Best solution: x = 31, f(x) = 961
+
+
+Zmiana population_size nie zmienił wyniku od wartości 100, aczkolwiek czas wykonania znacznie się wydłużył
+

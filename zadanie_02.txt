@@ -1,0 +1,2 @@
+Zmiana prawdopodobieńśtwa mutacji przy większych liczbach jest zerowa lub znikoma, wydłuża jedynie wykonywanie kodu
+Wartość 0.57 jest najmniejszą liczbą w zakresie, która powtarza jednolicie wynik, przy najszybszym jego wykonaniu.

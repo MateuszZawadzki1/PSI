@@ -1,0 +1,2 @@
+Lokalne optimum algorytmu przy niskich wartosciach populacji występuje przy każdym uruchomieniu programu.
+
