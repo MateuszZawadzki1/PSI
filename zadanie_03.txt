@@ -1,2 +1,6 @@
 Lokalne optimum algorytmu przy niskich wartosciach populacji występuje przy każdym uruchomieniu programu.
 
+Algorytm genetyczny potrzebuje różnorodnych rozwiązań w populacji, 
+aby skutecznie eksplorować różne obszary przestrzeni poszukiwań. Zbyt mała populacja szybko utraci tę różnorodność, 
+a algorytm może zbyt wcześnie koncentrować się na podobnych, ale niekoniecznie najlepszych rozwiązaniach
+

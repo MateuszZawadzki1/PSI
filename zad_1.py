@@ -51,7 +51,7 @@ def genetic_algorithm(population_size, chromosome_length, generations, mutation_
 
 population_size = 2
 chromosome_length = 5
-generations = 10
+generations = 100
 mutation_prob = 0.01
 
 genetic_algorithm(population_size, chromosome_length, generations, mutation_prob)

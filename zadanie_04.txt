@@ -1,0 +1,35 @@
+Wyniki dla populacji 2 oraz
+pokoleń 10:
+
+Best solution: x = 25, f(x) = 625
+
+Best solution: x = 28, f(x) = 784
+ 
+Best solution: x = 31, f(x) = 961
+
+pokoleń 20:
+
+Best solution: x = 25, f(x) = 625
+
+Best solution: x = 27, f(x) = 729
+
+Best solution: x = 30, f(x) = 900
+
+pokoleń 50:
+
+Best solution: x = 31, f(x) = 961
+
+Best solution: x = 24, f(x) = 576
+
+Best solution: x = 21, f(x) = 441
+
+pokoleń 100:
+
+Best solution: x = 19, f(x) = 361
+
+Best solution: x = 25, f(x) = 625
+
+Best solution: x = 29, f(x) = 841
+
+
+Wciaz nie wiele zmienie w problemach optymalizacji dla niskiej populacji
